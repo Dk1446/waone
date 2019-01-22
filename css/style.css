@@ -7,3 +7,8 @@ body{
     background-color: #f4f4f4;
     /* font: 15px/1.6 Arial, Helvetica, sans-serif; this is the shortcut*/
 }
+
+.container{
+    width: 80%; /* set to a percentage to make it responsive*/
+    margin: auto;  /*moves it to the middle*/
+}
