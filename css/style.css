@@ -12,6 +12,7 @@ body{
 .container{
     width: 80%; /* set to a percentage to make it responsive*/
     margin: auto;  /*moves it to the middle*/
+    overflow: hidden;
 }
 
 ul{
@@ -73,11 +74,10 @@ header a:hover{
 /* Showcase */
 
 #showcase{
-
     min-height: 400px;
-    background: url(../assets/showcase.jpg) no-repeat 0 -400px;
-    max-width:100%;
-    height:auto;
+    background: url(../assets/showcase.jpeg) no-repeat -400px;
+    text-align: center;
+    color:black;
 }
 
 
