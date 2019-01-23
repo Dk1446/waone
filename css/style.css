@@ -157,6 +157,31 @@ header a:hover {
     width:90px;
 }
 
+/* sidebar */
+aside#sidebar{
+
+    float:right;
+    width:30%;
+    text-align: justify;
+
+}
+
+article#main_col{
+    float:left;
+    width:65%;
+    text-align: justify;
+}
+
+.dark{
+    background-color: #35424a;
+    padding:15px;
+    color: white;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+}
+
+
 /* Footer */
 
 footer{
