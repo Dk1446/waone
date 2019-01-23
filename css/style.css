@@ -96,6 +96,12 @@ header a:hover {
     text-align: center;
     color: white;
     font-size: 20px;
+
+    /* code to give a matte finish to the background */
+    /* -webkit-filter: brightness(90%) contrast(90%) blur(2px) grayscale(10%);
+    filter: brightness(90%) contrast(90%) blur(2px) grayscale(10%); 
+    */
+
 }
 
 #showcase h1 {
